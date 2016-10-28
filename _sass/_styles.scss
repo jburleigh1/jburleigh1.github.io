@@ -5,7 +5,7 @@
   // navigation.html
 
   &-navigation {
-    padding-right: $spacing-unit;
+    padding-right: (2*$spacing-unit);
   }
 
   &-social {
@@ -63,9 +63,11 @@
 
   &-cards-image {
     display: block;
-    max-width: 50%;
     height: auto;
     margin: 0 auto;
+    max-width:317px;
+    width:100%;
+    height:auto;
   }
 
   &-cards-link {

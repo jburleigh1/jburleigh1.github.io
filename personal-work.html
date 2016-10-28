@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div>
+    <section>
+        <h1>James A. Burleigh</h1>
+        <p>Projects worked on in my spare time.</p>
+    </section>
+    
+<section>
+<h2>Personal Work</h2>
+    <div class="grid t-hackcss-cards">
+    {% for projects in site.personal_projects %}
+        <div class="cell -6of12 t-hackcss-cards-cell">
+            <div class="card">
+                <header class="card-header">{{ projects.name }}</header>
+                <div class="card-content">
+                    <div class="inner">
+                        <img src="{{ projects.image }}" class="t-hackcss-cards-image" alt="{{ projects.name }}" title="{{ projects.name }}" />
+                        <p class="t-hackcss-cards-text">{{ projects.description }}</p>
+                        <p class="t-hackcss-cards-link">
+                            <a href="{{ projects.url }}" title="{{ post.title }}" target="_blank">{{ projects.name }}</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</section>
+
+</div>

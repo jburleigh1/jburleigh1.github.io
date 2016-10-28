@@ -24,23 +24,99 @@ sass:
 theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: Jamie Burleigh
+your_name: James A. Burleigh
 email: j.burleigh1@gmail.com
 
 navigation:
   - text: Home
     url: /
+    target: _self
+  - text: Hilton Work
+    url: /hilton-work
+    target: _self
+  - text: Personal Work
+    url: /personal-work
+    target: _self
+  - text: Blog
+    url: http://www.gymweasels.com
+    target: _blank
 
-projects:
-  - name: git-secret
-    description: A bash-tool to store your private data inside a git repository.
-    link: https://sobolevn.github.io/git-secret
-    image: https://github.com/sobolevn/git-secret/blob/7c9ae0b1853d4c15549027524121b9e40219fe47/images/git-secret-sm.png?raw=true 
-
+hilton_projects:
+  - name: Hilton Melbourne
+    image: /images/work/melbourne.jpg
+    description: Fully responsive, feature rich website for two Hilton hotels in Melbourne.
+    url: http://www.hiltonmelbourne.com.au/
+  - name: Librijes Zusjes
+    image: /images/work/librijes.jpg
+    description: Mobile-first website for a restaurant within the Waldorf Astoria Amsterdam.
+    url: http://www.librijeszusje.nl/ 
+  - name: Triaon Palace
+    image: /images/work/trianon.jpg
+    description: Fully responsive, multi-lingual website for the Trianon Palace in Versailles.
+    url: http://www.trianonpalace.fr  
+  - name: El Conquistador & Las Casitas
+    image: /images/work/elcon-lascas.jpg
+    description: Two fully responsive, multi-lingual websites for El Conquistador & Las Casitas in Puerto Rico.
+    url: http://www.elconresort.com/
+  - name: Hilton Glasgow
+    image: /images/work/glasgow.jpg
+    description: Fully responsive, feature rich website for the Hilton hotel in Glasgow.
+    url: http://www.hiltonglasgow.com
+  - name: Parc 55
+    image: /images/work/parc55.jpg
+    description: Fully responsive, feature rich website for the Parc 55 Hotel in San Francisco.
+    url: http://www.parc55hotel.com
+  - name: Native Aberdeen
+    image: /images/work/nick-nairn.jpg
+    description: Fully responsive, feature rich website for a restaurant within the HGI Aberdeen.
+    url: http://www.nativeaberdeen.com
+  - name: Waldorf New York
+    image: /images/work/wany.jpg
+    description: Fully responsive, feature rich website for the infamous Waldorf Astoria in New York.
+    url: http://www.waldorfnewyork.com
+    
+personal_projects:
+  - name: Broadcast
+    image: /images/personal/broadcast.jpg
+    description: A free & premium Wordpress theme, built for integration with twitch.tv.
+    url: http://www.streamweasels.com
+    personal_projects:
+  - name: DayZ Intel
+    image: /images/personal/dayzintel.jpg
+    description: A popular blog following the development and release of the popular PC game - DayZ.
+    url: http://www.dayzintel.com
+  - name: Trossachs Trails
+    image: /images/personal/trossachs.jpg
+    description: A fully responsive, feature rich website for a touring company in Scotland.
+    url: http://www.trossachstrails.com    
+  - name: Biovorm
+    image: /images/personal/biovorm.jpg
+    description: An ecommerce website for a cleaning supplies company in Scotland.
+    url: http://www.biovorm.com   
+  - name: We Love Coffee
+    image: /images/personal/welovecoffee.jpg
+    description: An ecommerce website for a coffee supplies company in Scotland.
+    url: http://www.welovecoffeeltd.com    
+  - name: Jazz at the Spotted Dog
+    image: /images/personal/spotted-dog.jpg
+    description: A fully responsive, feature rich website for a Jazz night in Birmingham.
+    url: http://www.jazzatthespotteddog.co.uk
+  - name: Young Pilgrims
+    image: /images/personal/young-pilgrims.jpg
+    description: A fully responsive, feature rich website for a Jazz band in Birmingham.
+    url: http://www.youngpilgrims.co.uk    
+  - name: WebKidZone
+    image: /images/personal/webkidzone.jpg
+    description: A bright and colourful puzzle website for kids.
+    url: http://www.webkidzone.jamieburleigh.co.uk    
+    
 social:
   - service: github
     username: jburleigh1
     link: https://github.com/jburleigh1
+  - service: codepen
+    username: jburleigh1
+    link: https://codepen.io/jburleigh1    
   - service: twitter
     username: jburleigh1
-    link: https://twitter.com/jburleigh1
+    link: https://twitter.com/jburleigh1  
