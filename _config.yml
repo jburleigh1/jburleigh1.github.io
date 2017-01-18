@@ -24,7 +24,7 @@ sass:
 theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: James A. Burleigh
+your_name: James Burleigh
 email: j.burleigh1@gmail.com
 
 navigation:
@@ -42,6 +42,14 @@ navigation:
     target: _blank
 
 hilton_projects:
+  - name: Resorts
+    image: /images/work/resorts.jpg
+    description: A series of fully responsive, feature rich landing pages for use on hilton.com.
+    url: http://www3.hilton.com/en/resorts/index.html
+  - name: Conrad Chicago
+    image: /images/work/conrad-chicago.jpg
+    description: Fully responsive, feature rich website for a flagship Conrad hotel in Chicago.
+    url: http://www.conradchicagohotel.com
   - name: Hilton Melbourne
     image: /images/work/melbourne.jpg
     description: Fully responsive, feature rich website for two Hilton hotels in Melbourne.
