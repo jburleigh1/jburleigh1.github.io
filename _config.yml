@@ -37,9 +37,6 @@ navigation:
   - text: Personal Work
     url: /personal-work
     target: _self
-  - text: Blog
-    url: http://www.gymweasels.com
-    target: _blank
 
 hilton_projects:
   - name: Resorts
@@ -57,11 +54,11 @@ hilton_projects:
   - name: Librijes Zusjes
     image: /images/work/librijes.jpg
     description: Mobile-first website for a restaurant within the Waldorf Astoria Amsterdam.
-    url: http://www.librijeszusje.nl/ 
+    url: http://www.librijeszusje.nl/
   - name: Triaon Palace
     image: /images/work/trianon.jpg
     description: Fully responsive, multi-lingual website for the Trianon Palace in Versailles.
-    url: http://www.trianonpalace.fr  
+    url: http://www.trianonpalace.fr
   - name: El Conquistador & Las Casitas
     image: /images/work/elcon-lascas.jpg
     description: Two fully responsive, multi-lingual websites for El Conquistador & Las Casitas in Puerto Rico.
@@ -82,13 +79,16 @@ hilton_projects:
     image: /images/work/wany.jpg
     description: Fully responsive, feature rich website for the infamous Waldorf Astoria in New York.
     url: http://www.waldorfnewyork.com
-    
+
 personal_projects:
+  - name: OSRS Best In Slot
+    image: /images/personal/osrs.jpg
+    description: An Old School Runescape gear calculator, built for the Runescape community.
+    url: http://www.osrsbestinslot.com
   - name: Broadcast
     image: /images/personal/broadcast.jpg
     description: A free & premium Wordpress theme, built for integration with twitch.tv.
     url: http://www.streamweasels.com
-    personal_projects:
   - name: DayZ Intel
     image: /images/personal/dayzintel.jpg
     description: A popular blog following the development and release of the popular PC game - DayZ.
@@ -96,15 +96,15 @@ personal_projects:
   - name: Trossachs Trails
     image: /images/personal/trossachs.jpg
     description: A fully responsive, feature rich website for a touring company in Scotland.
-    url: http://www.trossachstrails.com    
+    url: http://www.trossachstrails.com
   - name: Biovorm
     image: /images/personal/biovorm.jpg
     description: An ecommerce website for a cleaning supplies company in Scotland.
-    url: http://www.biovorm.com   
+    url: http://www.biovorm.com
   - name: We Love Coffee
     image: /images/personal/welovecoffee.jpg
     description: An ecommerce website for a coffee supplies company in Scotland.
-    url: http://www.welovecoffeeltd.com    
+    url: http://www.welovecoffeeltd.com
   - name: Jazz at the Spotted Dog
     image: /images/personal/spotted-dog.jpg
     description: A fully responsive, feature rich website for a Jazz night in Birmingham.
@@ -112,19 +112,19 @@ personal_projects:
   - name: Young Pilgrims
     image: /images/personal/young-pilgrims.jpg
     description: A fully responsive, feature rich website for a Jazz band in Birmingham.
-    url: http://www.youngpilgrims.co.uk    
+    url: http://www.youngpilgrims.co.uk
   - name: WebKidZone
     image: /images/personal/webkidzone.jpg
     description: A bright and colourful puzzle website for kids.
-    url: http://www.webkidzone.jamieburleigh.co.uk    
-    
+    url: http://www.webkidzone.jamieburleigh.co.uk
+
 social:
   - service: github
     username: jburleigh1
     link: https://github.com/jburleigh1
   - service: codepen
     username: jburleigh1
-    link: https://codepen.io/jburleigh1    
+    link: https://codepen.io/jburleigh1
   - service: twitter
     username: jburleigh1
-    link: https://twitter.com/jburleigh1  
+    link: https://twitter.com/jburleigh1
