@@ -39,6 +39,38 @@ navigation:
     target: _self
 
 hilton_projects:
+  - name: Find Somewhere Special
+    image: /images/work/find-somewhere.jpg
+    description: Fully responsive, feature rich website for unique Hilton experiences.
+    url: https://www.hiltonhotels.com/fr_FR/destinationincontournable
+  - name: 10 Degrees
+    image: /images/work/10degrees.jpg
+    description: Fully responsive, feature rich website for a restaurant in London.
+    url: https://www.10degreeslondon.com/
+  - name: Dabble
+    image: /images/work/dabble.jpg
+    description: Fully responsive, feature rich website for a restaurant in New York.
+    url: https://www.dabblenewyork.com/
+  - name: Singapore
+    image: /images/work/singapore.jpg
+    description: Fully responsive, feature rich website for a set of restaurants in Singapore.
+    url: https://www.hiltonsingaporerestaurants.com/
+  - name: Begin
+    image: /images/work/begin.jpg
+    description: Fully responsive, feature rich website for a restaurant in Glasgow.
+    url: https://www.beginglasgow.com/
+  - name: Hollywood Beach
+    image: /images/work/hollywood-beach.jpg
+    description: Fully responsive, feature rich website for a Doubletree hotel in Hollywood Beach.
+    url: https://www.dthollywoodbeach.com
+  - name: Indianapolis
+    image: /images/work/indianapolis.jpg
+    description: Fully responsive, feature rich website for a flagship Conrad hotel in Indianpolis.
+    url: https://www.conradindianapolis.com/
+  - name: Reykjavik
+    image: /images/work/reykjavik.jpg
+    description: Fully responsive, feature rich website for the first Canopy hotel in Reykjavik.
+    url: https://www.canopyreykjavik.com/
   - name: Resorts
     image: /images/work/resorts.jpg
     description: A series of fully responsive, feature rich landing pages for use on hilton.com.
@@ -85,38 +117,10 @@ personal_projects:
     image: /images/personal/osrs.jpg
     description: An Old School Runescape gear calculator, built for the Runescape community.
     url: http://www.osrsbestinslot.com
-  - name: Broadcast
-    image: /images/personal/broadcast.jpg
-    description: A free & premium Wordpress theme, built for integration with twitch.tv.
+  - name: StreamWeasels
+    image: /images/personal/weasels.jpg
+    description: Free and premium WordPress Themes and Plugins, built for the Twitch community.
     url: http://www.streamweasels.com
-  - name: DayZ Intel
-    image: /images/personal/dayzintel.jpg
-    description: A popular blog following the development and release of the popular PC game - DayZ.
-    url: http://www.dayzintel.com
-  - name: Trossachs Trails
-    image: /images/personal/trossachs.jpg
-    description: A fully responsive, feature rich website for a touring company in Scotland.
-    url: http://www.trossachstrails.com
-  - name: Biovorm
-    image: /images/personal/biovorm.jpg
-    description: An ecommerce website for a cleaning supplies company in Scotland.
-    url: http://www.biovorm.com
-  - name: We Love Coffee
-    image: /images/personal/welovecoffee.jpg
-    description: An ecommerce website for a coffee supplies company in Scotland.
-    url: http://www.welovecoffeeltd.com
-  - name: Jazz at the Spotted Dog
-    image: /images/personal/spotted-dog.jpg
-    description: A fully responsive, feature rich website for a Jazz night in Birmingham.
-    url: http://www.jazzatthespotteddog.co.uk
-  - name: Young Pilgrims
-    image: /images/personal/young-pilgrims.jpg
-    description: A fully responsive, feature rich website for a Jazz band in Birmingham.
-    url: http://www.youngpilgrims.co.uk
-  - name: WebKidZone
-    image: /images/personal/webkidzone.jpg
-    description: A bright and colourful puzzle website for kids.
-    url: http://www.webkidzone.jamieburleigh.co.uk
 
 social:
   - service: github
